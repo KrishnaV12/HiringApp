@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hiringapp/static/css/main.846a36ac.css",
+    "main.js": "/hiringapp/static/js/main.1acf9d06.js",
+    "static/media/logo.svg": "/hiringapp/static/media/logo.4f6d937f6ac88eb1e3cb0a56d56a23a0.svg",
+    "index.html": "/hiringapp/index.html",
+    "main.846a36ac.css.map": "/hiringapp/static/css/main.846a36ac.css.map",
+    "main.1acf9d06.js.map": "/hiringapp/static/js/main.1acf9d06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846a36ac.css",
+    "static/js/main.1acf9d06.js"
+  ]
+}
